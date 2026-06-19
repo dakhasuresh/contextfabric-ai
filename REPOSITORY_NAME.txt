@@ -1,4 +1,0 @@
-Recommended GitHub repository name: contextfabric-ai
-
-GitHub description:
-Multi-agent Context Fabric platform that transforms raw industrial signals into trusted operational understanding for AI, Digital Twins, Copilots, and Agentic Operations.
